@@ -7,12 +7,13 @@ How to Run
 Start the server
 node server.js
 
-Start client(s) (open multiple terminals)
+Start clients (open multiple terminals)
 node client.js
 
 Server runs on 127.0.0.1:3008.
 
-Notes
+
+Notes:
 Each client gets an ID automatically
 Messages are broadcast to all users
 Not secure (plain text, no authentication)
