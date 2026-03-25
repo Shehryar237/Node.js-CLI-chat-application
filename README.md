@@ -3,8 +3,10 @@ CLI Chat App (Node.js TCP)
 Simple command-line chat app using Node.js TCP sockets. Multiple clients can connect and send messages to each other through a server.
 
 How to Run
+
 Start the server
 node server.js
+
 Start client(s) (open multiple terminals)
 node client.js
 
